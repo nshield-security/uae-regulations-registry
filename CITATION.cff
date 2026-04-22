@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you reference this registry, please cite it as below."
+title: "UAE Cybersecurity & Data Protection Regulations Registry"
+abstract: >-
+  A primary-source-validated reference of UAE cybersecurity and data-protection
+  mandates — federal laws, free-zone rulebooks, and sector regulations — with
+  regulator, deadline, enforcement status, penalty range, data-localization,
+  breach-notification, and DPO-requirement attributes for each. Published and
+  maintained by nshield.io.
+type: dataset
+version: "3.1"
+date-released: "2026-04-19"
+license: CC-BY-4.0
+repository-code: "https://github.com/nshield-security/uae-regulations-registry"
+url: "https://github.com/nshield-security/uae-regulations-registry"
+authors:
+  - name: "nshield.io"
+    website: "https://nshield.io"
+    email: "info@nshield.io"
+keywords:
+  - UAE
+  - cybersecurity
+  - data-protection
+  - compliance
+  - PDPL
+  - CBUAE
+  - NABIDH
+  - ADHICS
+  - DFSA
+  - DIFC
+  - ADGM
+  - VARA
+  - TDRA
