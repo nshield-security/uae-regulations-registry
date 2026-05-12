@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "UAE Cybersecurity & Data Protection Compliance Registry",
-  "version": "v3.1",
-  "as_of": "2026-04-19",
+  "version": "v3.2",
+  "as_of": "2026-05-12",
   "next_revalidation": "2026-07-20",
   "source": "github.com/nshield-security/uae-regulations-registry",
   "license": "CC-BY-4.0",
@@ -171,13 +171,13 @@
       "short_reference": "Virtual Assets Regulatory Authority",
       "regulating_body": "VARA (Dubai)",
       "applies_to_sectors": "Finance — Crypto, NFT, Virtual Asset exchanges",
-      "key_requirements": "Anti-hacking infrastructure; secure crypto wallet systems; AML/CFT compliance; mandatory cybersecurity audits; incident reporting; secure custody of digital assets; data protection for trading activity records.",
+      "key_requirements": "Anti-hacking infrastructure; HSMs for critical key storage; risk-based hot/cold custody decisions (multi-sig where appropriate); AML/CFT compliance; mandatory cybersecurity audits; incident reporting; data protection for trading activity records.",
       "compliance_deadline": "In force",
-      "deadline_notes": "T&I Rulebook eff. 19 May 2025; full compliance from 19 Jun 2025; annual TLPT/Red Team; quarterly vulnerability scans; continuous monitoring",
+      "deadline_notes": "T&I Rulebook eff. 19 May 2025; full compliance from 19 Jun 2025; annual third-party pentest (TLPT when VARA mandates); quarterly vulnerability assessments + continuous automated scanning",
       "enforcement_status": "Enforced",
-      "max_penalty": "License revocation + fines",
+      "max_penalty": "Per VARA Enforcement Rulebook: written reprimands, enforcement notices, cease-and-desist, scope limits, fines, suspension, or revocation",
       "data_localization": "UAE data protection laws apply; secure key/seed backup in separate locations (no Dubai-only mandate confirmed)",
-      "breach_notification": "72 hours (Rule H)",
+      "breach_notification": "72h material cyber events (Section H, Technology & Information Rulebook) + 24h for personal data incidents",
       "dpo_required": "Mandatory data protection governance role"
     },
     {
