@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "UAE Cybersecurity & Data Protection Compliance Registry",
-  "version": "v3.2",
-  "as_of": "2026-05-12",
+  "version": "v4.0",
+  "as_of": "2026-06-04",
   "next_revalidation": "2026-07-20",
   "source": "github.com/nshield-security/uae-regulations-registry",
   "license": "CC-BY-4.0",
@@ -109,6 +109,20 @@
       "data_localization": "No (adequacy list applies)",
       "breach_notification": "72 hours",
       "dpo_required": "Yes"
+    },
+    {
+      "regulation": "ADGM Cyber Risk Management Framework",
+      "short_reference": "ADGM Rulebook GEN 3.5",
+      "regulating_body": "ADGM Financial Services Regulatory Authority (FSRA)",
+      "applies_to_sectors": "Finance — ADGM Authorised Persons & Recognised Bodies",
+      "key_requirements": "Maintain and integrate a Cyber Risk Management Framework; current ICT asset inventory classified by confidentiality & business criticality (incl. third-party assets); board (or governing body) + senior-management accountability; cyber-risk assessment reviewed regularly and at least annually; technical controls (anti-malware with auto-scanning, network-perimeter security, least-privilege access); IT-service-provider / technology-contract requirements; material cyber incident notification to FSRA within 24 hours.",
+      "compliance_deadline": "Binding Jul 2025; full compliance 31 January 2026",
+      "deadline_notes": "Issued via FSRA Consultation Paper 3 of 2025; rules binding Jul 2025 with a 6-month transition — full compliance from 31 Jan 2026 (GEN Rule 3.5). Distinct from ADGM DPR 2021 (data protection).",
+      "enforcement_status": "In force (compliance required from 31 Jan 2026)",
+      "max_penalty": "FSRA enforcement action + fines under the Financial Services & Markets Regulations",
+      "data_localization": "No (cyber-risk rules; not a localization mandate)",
+      "breach_notification": "Within 24 hours (material cyber incident, to FSRA)",
+      "dpo_required": "N/A (cyber rules; DPO obligations under ADGM DPR 2021)"
     },
     {
       "regulation": "CBUAE Consumer Protection & Banking Law",
