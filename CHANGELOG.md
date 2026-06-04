@@ -6,6 +6,27 @@ Format based loosely on [Keep a Changelog](https://keepachangelog.com). Registry
 
 ---
 
+## v4.0 — 4 June 2026
+
+ADGM Cyber Risk Management Framework added after live-source validation. The registry previously held only ADGM DPR 2021 (data protection) — the FSRA **cyber** framework was missing. Surfaced during a content fact-check. Per the data-semantics convention (MAJOR = new mandate added), this is a major bump.
+
+### Added
+- **ADGM Cyber Risk Management Framework (GEN Rule 3.5)** — added to Master Registry, Finance vertical, and Deadline Tracker. FSRA framework, binding since Jul 2025, full compliance from **31 Jan 2026**. Requires: a Cyber Risk Management Framework; ICT asset inventory classified by confidentiality & business criticality (incl. third-party); board/governing-body + senior-management accountability; cyber-risk assessment reviewed at least annually; technical controls (anti-malware auto-scanning, network security, least-privilege access); IT-service-provider/technology-contract requirements; **material cyber incident notification to FSRA within 24 hours**. Distinct from ADGM DPR 2021.
+
+### Sources
+- https://www.adgm.com/media/announcements/adgms-fsra-issues-cyber-risk-management-framework
+- https://en.adgm.thomsonreuters.com/rulebook/gen-35-cyber-risk-management
+- https://www.nortonrosefulbright.com/en/knowledge/publications/55179310/cyber-risk-management-in-the-adgm-an-analysis-of-the-new-regulatory-framework
+- https://www.dts-solution.com/adgm-cyber-risk-management-what-firms-need-to-know-before-january-31-2026/
+
+### Validation method
+Web research 4 Jun 2026 against ADGM/FSRA primary announcement + ADGM Rulebook GEN 3.5 + independent legal analyses. The 24-hour notification, asset-classification, governance, third-party, and technical-control requirements were each cross-checked across multiple sources.
+
+### Data layers updated
+- Markdown tables (Master Registry, Finance, Deadline Tracker) + `data/regulations.json` (bumped to v4.0, `as_of` 2026-06-04). The `.xlsx` source (`UAE_Cybersecurity_Compliance_SMB_v2.xlsx`) not yet regenerated — refresh on next pass.
+
+---
+
 ## v3.2 — 12 May 2026
 
 VARA row corrections after primary-source re-validation against VARA Technology & Information Rulebook (rulebooks.vara.ae) and VARA Enforcement Rulebook.
