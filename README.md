@@ -4,7 +4,7 @@ A primary-source-validated registry of UAE cybersecurity and data-protection man
 
 Published and maintained by [nshield.io](https://nshield.io), a Dubai-based cybersecurity firm with a Silicon Oasis SOC. Licensed **CC BY 4.0** — free to use, adapt, and cite with attribution.
 
-**Version:** v3.1 · **As of:** 19 April 2026 · **Next re-validation:** 20 July 2026
+**Version:** v4.1 · **As of:** 25 July 2026 · **Next re-validation:** 20 October 2026
 
 ---
 
@@ -12,7 +12,7 @@ Published and maintained by [nshield.io](https://nshield.io), a Dubai-based cybe
 
 | Path | What it is |
 |---|---|
-| [`mandates/master-registry.md`](mandates/master-registry.md) | All 13 mandates × 12 attributes. The master table. |
+| [`mandates/master-registry.md`](mandates/master-registry.md) | All 14 mandates × 12 attributes. The master table. |
 | [`mandates/deadline-tracker.md`](mandates/deadline-tracker.md) | Cross-sector deadline view. |
 | [`verticals/`](verticals/) | Per-sector cuts: Finance, Healthcare, Real Estate, Retail, Logistics, Education, Professional Services, Telecom. |
 | [`data/regulations.json`](data/regulations.json) | Machine-readable JSON version of the master table — for AI agents and programmatic consumers. |
@@ -20,6 +20,17 @@ Published and maintained by [nshield.io](https://nshield.io), a Dubai-based cybe
 | [`CITATION.md`](CITATION.md) / [`CITATION.cff`](CITATION.cff) | How to cite this registry (human and machine forms). |
 | [`AGENTS.md`](AGENTS.md) | Instructions for AI agents consuming this repo. |
 | [`CHANGELOG.md`](CHANGELOG.md) | Version history and revalidation log. |
+
+---
+
+## Pending & watch (as of 25 July 2026)
+
+- **Federal Authority for Artificial Intelligence and Data** — new consolidated regulator (Cabinet decision announced 14 June 2026); absorbs the UAE Data Office (PDPL), the AI Office, and TDRA's digital-government sector. Establishing instrument number pending gazette confirmation.
+- **PDPL Executive Regulations** — still not issued as of 25 July 2026. Beware of circulating false claims that they were issued in 2026 (see [`SOURCES.md`](SOURCES.md)).
+- **DIFC amended Data Protection Regulations (CP3/2026)** — AI-systems and certification provisions; enactment expected H2 2026.
+- **DFSA operational-resilience GEN section (CP170)** — final rules expected late 2026.
+- **National Cyber Accreditation Programme (NCAP)** — 2026 rollout; formal accreditation policy awaited on csc.gov.ae.
+- **Riayati/NUMR integration mandate (MOHAP)** — mandate reported, official circular citation pending.
 
 ---
 
@@ -34,6 +45,7 @@ Published and maintained by [nshield.io](https://nshield.io), a Dubai-based cybe
 | **NABIDH (DHA policy)** | In force | 10 Nov 2024 | Healthcare (Dubai) |
 | **DIFC DPL** (2025 amendments) | In force | 15 Jul 2025 | Finance / Real Estate (DIFC) |
 | **ADGM DPR** | In force | 2021 | Finance / Real Estate (ADGM) |
+| **ADGM Cyber Risk Mgmt** (GEN 3.5) | In force | 31 Jan 2026 | Finance (ADGM entities) |
 | **DFSA GEN 5.5** (Cyber Risk) | In force | 1 Jan 2024 | Finance (DFSA-authorised) |
 | **VARA T&I Rulebook** | In force | 19 Jun 2025 | Crypto / Virtual Assets |
 | **TDRA Data Residency** | In force | Ongoing | Telecom / ISPs / Cloud |
@@ -49,7 +61,7 @@ See [`mandates/master-registry.md`](mandates/master-registry.md) for full attrib
 
 1. **Source:** UAE primary-source materials only — regulator websites, official gazettes, and statute text. Not legal newsletters, not vendor blogs.
 2. **Validation:** Every row is cross-checked against a primary-source URL. Discrepancies are logged and resolved against the most recent governing document.
-3. **Cadence:** Full re-validation every quarter. Next scheduled: 20 July 2026.
+3. **Cadence:** Full re-validation every quarter. Next scheduled: 20 October 2026.
 4. **Transparency:** Sources and method documented in [`SOURCES.md`](SOURCES.md). Change log in [`CHANGELOG.md`](CHANGELOG.md).
 
 **What this repo is not:** legal advice. It's a reference table. Regulatory applicability to a specific organization depends on the entity's structure, licensing, and sector — consult qualified counsel.

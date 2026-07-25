@@ -6,6 +6,34 @@ Format based loosely on [Keep a Changelog](https://keepachangelog.com). Registry
 
 ---
 
+## v4.1 — 25 July 2026
+
+Quarterly re-validation of all 14 mandates, run via three parallel primary-source research sweeps (federal / financial / health clusters) across the Apr–Jul 2026 window. Nine mandates unchanged; ten rows received factual additions. No mandate added or removed — per the data-semantics convention (MINOR = row-level factual fix), a minor bump. Metadata: version → v4.1, `as_of` 2026-07-25, `next_revalidation` 2026-10-20.
+
+### Changed
+- **PDPL** — regulator transition noted: the UAE Data Office is being absorbed into the new **Federal Authority for Artificial Intelligence and Data** (Cabinet decision announced 14 June 2026). Confirmed Executive Regulations still not issued as of 25 July 2026.
+- **National Cybersecurity Strategy 2025–2031** — 2026 implementation note added: National Cyber Accreditation Programme (NCAP) rollout restricting critical-infrastructure operators to accredited providers, Secure Supply Chain (SBOM) Program, Quantum Secure Program.
+- **DIFC DPL** — flagged amended DP Regulations proposed via **Consultation Paper 3/2026** (18 Jun 2026; consultation closed 18 Jul 2026): AI-systems safety (Reg 10), certification schemes + Autonomous Systems Officer (Reg 11); enactment expected H2 2026.
+- **DFSA GEN 5.5** — 2026 supervision notes added: mandatory Cyber Risk Self-Assessment via ePortal (Dear SEO letter 30 Jun 2026, due 24 Jul 2026); Dear SEO AI risk-management letter (4 Jun 2026); operational-resilience GEN section proposed via CP170 (final rules expected late 2026). Also added the DFSA GEN 5.5 row to the Deadline Tracker (previously in the Master Registry and Finance vertical but missing from the tracker).
+- **ADGM Cyber Risk Management (GEN 3.5)** — noted FSRA Cyber Threat Notice to VASPs (30 Apr 2026) reiterating the 24-hour material-incident notification.
+- **VARA** — 2026 enforcement wave noted: June 2026 actions against MX Global, CoinMENA, and Peken Global (KuCoin).
+- **Child Digital Safety Law** — first implementing instrument added: Cabinet Resolution on children's social-media access (approved 18 Jun 2026): minimum age 15, enhanced safeguards for ages 15–16, personalized-advertising ban for minors, 12-month platform transition to mandatory age verification.
+- **NABIDH** — enriched with related DHA standards: ST-11 (Health Information Assets Management During Facility Closure, Jul 2025) and ST-12 (Human Genetic and Genomic Data Governance, 28 Aug 2025).
+- **TDRA** — scope note added: TDRA's Information and Digital Government Sector moved into the Federal Authority for Artificial Intelligence and Data (14 Jun 2026); telecom/spectrum regulation and residency requirements remain with TDRA.
+- **CBUAE DL 6/2025** — 16 September 2026 reconciliation deadline confirmed as of 25 July 2026, no extension announced; no dedicated cyber/technology-risk regulation issued under the new law yet (pre-existing regulations remain in force via Art. 183).
+
+### Added
+- **README "Pending & watch (as of 25 July 2026)" section** — Federal Authority for AI and Data, PDPL Executive Regulations status, DIFC CP3/2026, DFSA CP170, NCAP, and the Riayati/NUMR integration mandate. Also fixed the stale README header (was v3.1 / 19 Apr) and corrected the mandate count to 14.
+- **SOURCES.md "Known-unreliable sources" note** — naming SEO farms (itsecnow.com, eshieldconsulting.com, vesta-solutions.ae, bshsoft.com, muhami.ae) that publish fabricated PDPL Executive-Regulations claims, plus the additional primary sources checked this cycle.
+
+### Validation method
+Three parallel primary-source research sweeps (federal / financial / health), 25 July 2026, primary-source-first against regulator sites and rulebooks (difc.com, dfsaen.thomsonreuters.com, rulebook.centralbank.ae, rulebooks.vara.ae, alusra.gov.ae, uaelegislation.gov.ae, doh.gov.ae, dha.gov.ae, mohap.gov.ae, u.ae). See [`SOURCES.md`](SOURCES.md).
+
+### Data layers updated
+- Markdown tables (Master Registry, Deadline Tracker, Finance / Healthcare / Education / Retail / Telecom verticals) + `data/regulations.json` (bumped to v4.1, `as_of` 2026-07-25). README, SOURCES.md, CITATION.cff, and CITATION.md restamped. The `.xlsx` source not regenerated this cycle.
+
+---
+
 ## v4.0 — 4 June 2026
 
 ADGM Cyber Risk Management Framework added after live-source validation. The registry previously held only ADGM DPR 2021 (data protection) — the FSRA **cyber** framework was missing. Surfaced during a content fact-check. Per the data-semantics convention (MAJOR = new mandate added), this is a major bump.
@@ -76,7 +104,7 @@ Baseline published on GitHub.
 
 ## Revalidation schedule
 
-- **Next full re-validation:** 20 July 2026
+- **Next full re-validation:** 20 October 2026
 - **Cadence:** quarterly
 - **Trigger for out-of-cycle updates:** publication of PDPL Executive Regulations, or any other governing instrument that materially changes a registry row
 

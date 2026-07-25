@@ -8,8 +8,8 @@ abstract: >-
   breach-notification, and DPO-requirement attributes for each. Published and
   maintained by nshield.io.
 type: dataset
-version: "3.1"
-date-released: "2026-04-19"
+version: "4.1"
+date-released: "2026-07-25"
 license: CC-BY-4.0
 repository-code: "https://github.com/nshield-security/uae-regulations-registry"
 url: "https://github.com/nshield-security/uae-regulations-registry"

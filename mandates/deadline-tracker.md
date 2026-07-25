@@ -2,8 +2,8 @@
 
 | UAE CYBERSECURITY & DATA COMPLIANCE — DEADLINE TRACKER |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|
-| Reference date: April 2026  \|  Green = Enforced (act now)  \|  Amber = Transition  \|  Red = Overdue / Immediate |  |  |  |  |  |  |
-| Regulation / Mandate | Sector(s) | Effective Date | Full Compliance Deadline | Days from Apr 2026 | Action Required | Priority |
+| Reference date: July 2026  \|  Green = Enforced (act now)  \|  Amber = Transition  \|  Red = Overdue / Immediate |  |  |  |  |  |  |
+| Regulation / Mandate | Sector(s) | Effective Date | Full Compliance Deadline | Days from Jul 2026 | Action Required | Priority |
 | Federal Cybercrime Law | ALL verticals | In force (2021) | No grace — IMMEDIATE | Overdue | Implement anti-breach controls, incident response, access management now. Criminal liability for executives. | CRITICAL |
 | Federal Health Data Law | Healthcare | In force (2019) | No grace — IMMEDIATE | Overdue | Ensure all electronic health records hosted in UAE. Obtain ministerial approval before any cross-border transfer. | CRITICAL |
 | ADHICS v2.0 | Healthcare (Abu Dhabi) | 2024 | Ongoing / Annual review | Overdue | Full PHI localization, EMR access controls, cybersecurity monitoring, annual audits with DoH. | CRITICAL |
@@ -12,8 +12,9 @@
 | DIFC DPL (2025 amendments) | Finance, Retail, Real Estate (DIFC) | 15 Jul 2025 | 15 Jul 2025 — No grace | Overdue | Conduct DPIA; complete annual DPO review; document adequacy assessments for cross-border transfers. | CRITICAL |
 | ADGM DPR | Finance, Real Estate (ADGM) | In force (2021) | No grace — IMMEDIATE | Overdue | Appoint DPO; implement SCCs for international data transfers; ensure 72-hr breach notification process. | CRITICAL |
 | ADGM Cyber Risk Mgmt (GEN 3.5) | Finance — ADGM entities | Binding Jul 2025 | 31 Jan 2026 | Overdue | Establish/integrate a Cyber Risk Management Framework; build ICT asset inventory classified by criticality (incl. third-party); review cyber-risk at least annually; deploy technical controls + least-privilege access; set up 24-hr FSRA material-incident notification; update IT-service contracts. | HIGH |
+| DFSA Cyber Risk Mgmt (GEN 5.5) | Finance — DIFC entities | 1 Jan 2024 | No grace — in force | Overdue | Maintain cyber risk framework per GEN 5.5; senior-executive accountability; GEN 5.5.19 incident reporting. 2026: complete mandatory Cyber Risk Self-Assessment via DFSA ePortal (due 24 Jul 2026). | HIGH |
 | VARA Framework | Finance — Crypto/Virtual Assets | In force | No grace — IMMEDIATE | Overdue | Implement anti-hacking controls; HSMs for critical keys + risk-based hot/cold custody; mandatory cybersecurity audits; AML compliance; establish 72h material-cyber-event notification (Section H) + 24h personal-data incident notification process. | CRITICAL |
 | TDRA Data Residency | Telecom, Retail, Logistics | In force | No grace — IMMEDIATE | Overdue | Migrate customer data to UAE-hosted servers; obtain TDRA approval if any offshore hosting in use. | HIGH |
-| CBUAE Banking Law (Fed. DL No. 6/2025) | Finance | 16 Sep 2025 | 16 Sep 2026 | Active | Map all customer financial data flows; implement UAE localization; establish 72-hr incident notification process. | HIGH |
-| UAE PDPL | ALL verticals (Mainland) | 2 Jan 2022 | In force since 2 Jan 2022; 6-mo window when ER publishes | In force | Build data inventory; update privacy notices; implement consent management; appoint DPO (high-risk); prepare breach notification procedure. | HIGH |
-| Child Digital Safety Law | Retail, Education, Telecom | 1 Jan 2026 | 1 Jan 2027 | Active | Implement age verification; remove behavioural profiling for minors; add parental controls; review marketing to under-18s. | MEDIUM |
+| CBUAE Banking Law (Fed. DL No. 6/2025) | Finance | 16 Sep 2025 | 16 Sep 2026 | Active | Map all customer financial data flows; implement UAE localization; establish 72-hr incident notification process. Deadline confirmed July 2026; no extension announced. | HIGH |
+| UAE PDPL | ALL verticals (Mainland) | 2 Jan 2022 | In force since 2 Jan 2022; 6-mo window when ER publishes | In force | Build data inventory; update privacy notices; implement consent management; appoint DPO (high-risk); prepare breach notification procedure. Regulator transition: Data Office being absorbed into the Federal Authority for AI and Data. | HIGH |
+| Child Digital Safety Law | Retail, Education, Telecom | 1 Jan 2026 | 1 Jan 2027 | Active | Implement age verification; remove behavioural profiling for minors; add parental controls; review marketing to under-18s. Social-media Cabinet Resolution (Jun 2026): minimum age 15; platforms 12 months to add age verification. | MEDIUM |
