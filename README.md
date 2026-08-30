@@ -32,6 +32,14 @@ Published and maintained by [nshield.io](https://nshield.io), a Dubai-based cybe
 - **National Cyber Accreditation Programme (NCAP)** — 2026 rollout; formal accreditation policy awaited on csc.gov.ae.
 - **Riayati/NUMR integration mandate (MOHAP)** — mandate reported, official circular citation pending.
 
+### Regional watch (not UAE mandates — monitored for the quarterly pass, no registry rows)
+
+- **Kuwait — CORF (Cyber and Operational Resilience Framework)** — Central Bank of Kuwait; replaced the 2020 Cybersecurity Framework in December 2025, reported at 876 controls. Monitored as a regional operational-resilience precedent.
+- **Kuwait — KNBCC** — first mandatory cross-sector baseline; reported compliance deadline around October 2027.
+- **Saudi Arabia — NCNICC-1:2025** — reported to bring companies of roughly 6 to 249 employees into scope of binding controls. Note: MSOC licensing, data-residency and localisation requirements mean this is monitored, not served remotely.
+
+*These are watch items only. They are deliberately NOT registry rows: the registry covers UAE mandates. Verify against primary sources before any of them is ever cited.*
+
 ---
 
 ## Deadlines at a glance
