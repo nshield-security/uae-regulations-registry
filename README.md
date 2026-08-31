@@ -29,7 +29,7 @@ Published and maintained by [nshield.io](https://nshield.io), a Dubai-based cybe
 - **PDPL Executive Regulations** — still not issued as of 25 July 2026. Beware of circulating false claims that they were issued in 2026 (see [`SOURCES.md`](SOURCES.md)).
 - **DIFC amended Data Protection Regulations (CP3/2026)** — AI-systems and certification provisions; enactment expected H2 2026.
 - **DFSA operational-resilience GEN section (CP170)** — final rules expected late 2026.
-- **National Cyber Accreditation Programme (NCAP)** — 2026 rollout; formal accreditation policy awaited on csc.gov.ae.
+- **National Cyber Accreditation Programme (NCAP)** — **policy PUBLISHED** (v2.0, listed on u.ae as at 2 July 2026), covering government entities, cybersecurity providers and training organisations. Framework for consistent evaluation, accreditation and certification. *Corrected 31 Aug 2026: the v4.1 entry said the policy was awaited, which was wrong.* Watch item is now the accreditation mechanics and provider-side rollout, not publication.
 - **Riayati/NUMR integration mandate (MOHAP)** — mandate reported, official circular citation pending.
 
 ### Regional watch (not UAE mandates — monitored for the quarterly pass, no registry rows)
