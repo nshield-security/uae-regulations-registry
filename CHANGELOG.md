@@ -12,7 +12,7 @@ Quarterly re-validation of all 14 mandates, run via three parallel primary-sourc
 
 ### Changed
 - **PDPL** — regulator transition noted: the UAE Data Office is being absorbed into the new **Federal Authority for Artificial Intelligence and Data** (Cabinet decision announced 14 June 2026). Confirmed Executive Regulations still not issued as of 25 July 2026.
-- **National Cybersecurity Strategy 2025–2031** — 2026 implementation note added: National Cyber Accreditation Programme (NCAP) rollout restricting critical-infrastructure operators to accredited providers, Secure Supply Chain (SBOM) Program, Quantum Secure Program.
+- **National Cybersecurity Strategy 2025–2031** — 2026 implementation note added: National Cyber Accreditation Programme (NCAP) rollout (policy published v2.0; see the 31 Aug 2026 correction note), Secure Supply Chain (SBOM) Program, Quantum Secure Program.
 - **DIFC DPL** — flagged amended DP Regulations proposed via **Consultation Paper 3/2026** (18 Jun 2026; consultation closed 18 Jul 2026): AI-systems safety (Reg 10), new Reg 11 = Commissioner may recognise accreditation/certification schemes; ASO sits at Reg 10.3.3; enactment expected H2 2026.
 - **DFSA GEN 5.5** — 2026 supervision notes added: mandatory Cyber Risk Self-Assessment via ePortal (Dear SEO letter 30 Jun 2026, due 24 Jul 2026); Dear SEO AI risk-management letter (4 Jun 2026); operational-resilience GEN section proposed via CP170 (final rules expected late 2026). Also added the DFSA GEN 5.5 row to the Deadline Tracker (previously in the Master Registry and Finance vertical but missing from the tracker).
 - **ADGM Cyber Risk Management (GEN 3.5)** — noted FSRA Cyber Threat Notice to VASPs (30 Apr 2026) reiterating the 24-hour material-incident notification.
