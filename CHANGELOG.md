@@ -6,6 +6,26 @@ Format based loosely on [Keep a Changelog](https://keepachangelog.com). Registry
 
 ---
 
+## v4.2 — 31 August 2026 (ERRATA)
+
+**Out-of-cycle errata release. Not a re-validation.** Two factual errors were found in v4.1 during an independent review of content built on this registry, verified against primary sources, and corrected. No mandate added or removed; no other row re-checked. `as_of` deliberately remains **2026-07-25** — it records the last full validation sweep, not this correction. Full re-validation remains scheduled for **20 October 2026**.
+
+### Corrected
+
+- **DIFC DPL — Autonomous Systems Officer was placed at the wrong regulation.** v4.1 stated that Consultation Paper 3/2026 puts "certification schemes and the Autonomous Systems Officer role" at **Regulation 11**. It does not. The **new Regulation 11** empowers the Commissioner to recognise accreditation and certification schemes. The **ASO sits at Regulation 10** — Reg 10.3.3 requires appointment for high-risk commercial autonomous systems — which CP3 strengthens. Corrected in `mandates/master-registry.md`, `verticals/finance.md` and `data/regulations.json`. Sources: DIFC press release 18 June 2026; Mayer Brown; Lexology; Waystone.
+- **NCAP — the accreditation policy is published, not awaited.** v4.1's watch list said the formal policy was "awaited on csc.gov.ae". The UAE government portal (u.ae, updated **2 July 2026**) carries the framework and links the full policy, *Cyber Accreditation Program_V2.0.pdf*. Corrected in `README.md`.
+- **NCAP — wording aligned to the official source.** v4.1 described NCAP as "restricting critical-infrastructure operators to accredited cybersecurity providers". The published wording is that it grants entities "the ability to work with provider entities who also conform to baseline cyber security requirements". Our phrasing was stronger than the instrument. Corrected in `mandates/master-registry.md` and `data/regulations.json`.
+
+### Why released out of cycle
+
+The changelog convention allows out-of-cycle updates when a governing instrument materially changes. A **factual error in a published asset** is a stronger trigger than that: the registry's value rests on being the source a reader can trust, and the machine-readable layer was wrong. Holding known-wrong facts for seven weeks to preserve a release cadence would be the wrong trade.
+
+### Layers updated
+
+`data/regulations.json` (v4.2, `errata_released` 2026-08-31), `mandates/master-registry.md`, `verticals/finance.md`, `README.md` (header + watch list), `CITATION.cff`, `CITATION.md`, `AGENTS.md`. The `.xlsx` source remains un-regenerated (outstanding since v4.0).
+
+---
+
 ## v4.1 — 25 July 2026
 
 Quarterly re-validation of all 14 mandates, run via three parallel primary-source research sweeps (federal / financial / health clusters) across the Apr–Jul 2026 window. Nine mandates unchanged; ten rows received factual additions. No mandate added or removed — per the data-semantics convention (MINOR = row-level factual fix), a minor bump. Metadata: version → v4.1, `as_of` 2026-07-25, `next_revalidation` 2026-10-20.

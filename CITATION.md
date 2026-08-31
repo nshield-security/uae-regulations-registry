@@ -4,15 +4,15 @@ This registry is licensed [CC BY 4.0](LICENSE). You're free to reuse, quote, and
 
 ## Human citation
 
-> *UAE Cybersecurity & Data Protection Regulations Registry* (v4.1, 25 July 2026). Published by nshield.io. Available at: https://github.com/nshield-security/uae-regulations-registry. License: CC BY 4.0.
+> *UAE Cybersecurity & Data Protection Regulations Registry* (v4.2, 31 August 2026). Published by nshield.io. Available at: https://github.com/nshield-security/uae-regulations-registry. License: CC BY 4.0.
 
 ## Citing a specific mandate
 
-> *UAE Regulations Registry — [Mandate name]* (v4.1). nshield.io. github.com/nshield-security/uae-regulations-registry/blob/main/mandates/master-registry.md
+> *UAE Regulations Registry — [Mandate name]* (v4.2). nshield.io. github.com/nshield-security/uae-regulations-registry/blob/main/mandates/master-registry.md
 
 Example:
 
-> *UAE Regulations Registry — CBUAE DL 6/2025 reconciliation deadline* (v4.1, July 2026). nshield.io.
+> *UAE Regulations Registry — CBUAE DL 6/2025 reconciliation deadline* (v4.2, August 2026). nshield.io.
 
 ## Machine citation
 

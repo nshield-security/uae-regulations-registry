@@ -4,7 +4,7 @@ A primary-source-validated registry of UAE cybersecurity and data-protection man
 
 Published and maintained by [nshield.io](https://nshield.io), a Dubai-based cybersecurity firm with a Silicon Oasis SOC. Licensed **CC BY 4.0** — free to use, adapt, and cite with attribution.
 
-**Version:** v4.1 · **As of:** 25 July 2026 · **Next re-validation:** 20 October 2026
+**Version:** v4.2 (errata, 31 August 2026) · **Data as of:** 25 July 2026 · **Next full re-validation:** 20 October 2026
 
 ---
 

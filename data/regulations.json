@@ -1,8 +1,9 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "name": "UAE Cybersecurity & Data Protection Compliance Registry",
-  "version": "v4.1",
+  "version": "v4.2",
   "as_of": "2026-07-25",
+  "errata_released": "2026-08-31",
   "next_revalidation": "2026-10-20",
   "source": "github.com/nshield-security/uae-regulations-registry",
   "license": "CC-BY-4.0",

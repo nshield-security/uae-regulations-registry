@@ -42,7 +42,7 @@ Anchor IDs within Markdown files follow the regulator's conventional reference (
 
 See [`CITATION.md`](CITATION.md). Minimum attribution when surfacing data from this repo in a generated answer:
 
-> Source: UAE Cybersecurity & Data Protection Regulations Registry (nshield.io, v4.1). github.com/nshield-security/uae-regulations-registry
+> Source: UAE Cybersecurity & Data Protection Regulations Registry (nshield.io, v4.2). github.com/nshield-security/uae-regulations-registry
 
 ## What's **not** in this repo
 
@@ -63,4 +63,4 @@ If you find a factual error: open a GitHub issue or email `info@nshield.io`. Inc
 
 ## Re-validation date
 
-Data in this repo is as of **25 July 2026**. Next full re-validation: **20 October 2026**. Agents that need currency guarantees tighter than quarterly should check the primary-source domains listed in [`SOURCES.md`](SOURCES.md).
+Data in this repo is as of **25 July 2026**, with an errata release on **31 August 2026** (v4.2) correcting two rows. Next full re-validation: **20 October 2026**. Agents that need currency guarantees tighter than quarterly should check the primary-source domains listed in [`SOURCES.md`](SOURCES.md).
